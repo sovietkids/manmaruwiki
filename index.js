@@ -1,6 +1,3 @@
-import { inject } from "@vercel/analytics"
-
-inject()
 //ありがとうAIさん
 // ローカルストレージからパスワード解除状態を取得
 let passwordunlocked = localStorage.getItem("passwordunlocked");
